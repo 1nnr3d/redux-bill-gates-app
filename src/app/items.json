@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "img": "img/big-mac.jpg",
+    "name": "Big Mac",
+    "price": 2
+  },
+  {
+    "id": 2,
+    "img": "img/flip-flops.jpg",
+    "name": "Flip Flops",
+    "price": 3
+  },
+  {
+    "id": 3,
+    "img": "img/coca-cola-pack.jpg",
+    "name": "Coca-Cola Pack",
+    "price": 5
+  },
+  {
+    "id": 4,
+    "img": "img/movie-ticket.jpg",
+    "name": "Movie Ticket",
+    "price": 12
+  },
+  {
+    "id": 5,
+    "img": "img/book.jpg",
+    "name": "Book",
+    "price": 15
+  },
+  {
+    "id": 6,
+    "img": "img/lobster-dinner.jpg",
+    "name": "Lobster Dinner",
+    "price": 45
+  },
+  {
+    "id": 7,
+    "img": "img/video-game.jpg",
+    "name": "Video Game",
+    "price": 60
+  },
+  {
+    "id": 8,
+    "img": "img/amazon-echo.jpg",
+    "name": "Amazon Echo",
+    "price": 99
+  },
+  {
+    "id": 9,
+    "img": "img/year-of-netflix.jpg",
+    "name": "Year of Netflix",
+    "price": 100
+  },
+  {
+    "id": 10,
+    "img": "img/air-jordans.jpg",
+    "name": "Air Jordans",
+    "price": 125
+  },
+  {
+    "id": 11,
+    "img": "img/airpods.jpg",
+    "name": "Airpods",
+    "price": 199
+  },
+  {
+    "id": 12,
+    "img": "img/gaming-console.jpg",
+    "name": "Gaming Console",
+    "price": 299
+  },
+  {
+    "id": 13,
+    "img": "img/drone.jpg",
+    "name": "Drone",
+    "price": 350
+  },
+  {
+    "id": 14,
+    "img": "img/smartphone.jpg",
+    "name": "Smartphone",
+    "price": 699
+  },
+  {
+    "id": 15,
+    "img": "img/bike.jpg",
+    "name": "Bike",
+    "price": 800
+  },
+  {
+    "id": 16,
+    "img": "img/kitten.jpg",
+    "name": "Kitten",
+    "price": 1500
+  },
+  {
+    "id": 17,
+    "img": "img/puppy.jpg",
+    "name": "Puppy",
+    "price": 1500
+  },
+  {
+    "id": 18,
+    "img": "img/auto-rickshaw.jpg",
+    "name": "Auto Rickshaw",
+    "price": 2300
+  },
+  {
+    "id": 19,
+    "img": "img/horse.jpg",
+    "name": "Horse",
+    "price": 2500
+  },
+  {
+    "id": 20,
+    "img": "img/acre-of-farmland.jpg",
+    "name": "Acre of Farmland",
+    "price": 3000
+  },
+  {
+    "id": 21,
+    "img": "img/designer-handbag.jpg",
+    "name": "Designer Handbag",
+    "price": 5500
+  },
+  {
+    "id": 22,
+    "img": "img/hot-tub.jpg",
+    "name": "Hot Tub",
+    "price": 6000
+  },
+  {
+    "id": 23,
+    "img": "img/luxury-wine.jpg",
+    "name": "Luxury Wine",
+    "price": 7000
+  },
+  {
+    "id": 24,
+    "img": "img/diamond-ring.jpg",
+    "name": "Diamond Ring",
+    "price": 10000
+  },
+  {
+    "id": 25,
+    "img": "img/jet-ski.jpg",
+    "name": "Jet Ski",
+    "price": 12000
+  },
+  {
+    "id": 26,
+    "img": "img/rolex.jpg",
+    "name": "Rolex",
+    "price": 15000
+  },
+  {
+    "id": 27,
+    "img": "img/ford-f-150.jpg",
+    "name": "Ford F-150",
+    "price": 30000
+  },
+  {
+    "id": 28,
+    "img": "img/tesla.jpg",
+    "name": "Tesla",
+    "price": 75000
+  },
+  {
+    "id": 29,
+    "img": "img/monster-truck.jpg",
+    "name": "Monster Truck",
+    "price": 150000
+  },
+  {
+    "id": 30,
+    "img": "img/ferrari.jpg",
+    "name": "Ferrari",
+    "price": 250000
+  },
+  {
+    "id": 31,
+    "img": "img/single-family-home.jpg",
+    "name": "Single Family Home",
+    "price": 300000
+  },
+  {
+    "id": 32,
+    "img": "img/gold-bar.jpg",
+    "name": "Gold Bar",
+    "price": 700000
+  },
+  {
+    "id": 33,
+    "img": "img/yacht.jpg",
+    "name": "Yacht",
+    "price": 7500000
+  }
+]
