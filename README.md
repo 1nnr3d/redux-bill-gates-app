@@ -1,4 +1,4 @@
-![Preview](preview.PNG)
+![Preview](preview.png)
 
 # Getting Started with Create React App
 
